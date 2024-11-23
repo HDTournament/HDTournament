@@ -1,12 +1,13 @@
 {
-	"Name": "Hell's Descent LB",
-	"Version": 1732331423,
+	"Name": "Hell's Descent HB",
+	"Version": 1732331622,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
 		{
 			"Name": "General",
 			"SurvivorIndvPerkBans": [
+				"3",
 				"6",
 				"7",
 				"258",
