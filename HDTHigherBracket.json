@@ -1,6 +1,6 @@
 {
 	"Name": "Hell's Descent HB",
-	"Version": 1732697850,
+	"Version": 1732698478,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -313,7 +313,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5,
 				6
@@ -396,7 +395,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				4,
 				5
@@ -484,7 +482,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5,
 				6
@@ -577,7 +574,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5,
 				6
@@ -752,7 +748,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				4,
 				5
@@ -831,7 +826,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5,
 				6
@@ -1071,7 +1065,10 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
+			"SurvivorOfferings": [
+				4,
+				5
+			],
 			"KillerOfferings": []
 		},
 		{
@@ -1155,7 +1152,12 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
+			"SurvivorOfferings": [
+				0,
+				2,
+				4,
+				5
+			],
 			"KillerOfferings": []
 		},
 		{
@@ -1230,7 +1232,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -1318,7 +1319,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
+				2,
 				4,
 				5
 			],
@@ -1409,7 +1410,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5,
 				6
@@ -1505,7 +1505,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5,
 				6
@@ -1744,7 +1743,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5,
 				6
@@ -1823,7 +1821,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				4,
 				5
@@ -1996,7 +1993,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				4,
 				5
@@ -2079,7 +2075,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5,
 				6
@@ -2321,7 +2316,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5,
 				6
@@ -2413,7 +2407,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				4,
 				5
@@ -2504,7 +2497,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5,
 				6
@@ -2587,7 +2579,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5,
 				6
@@ -2676,7 +2667,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5,
 				6
@@ -2838,7 +2828,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5,
 				6
@@ -2923,7 +2912,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				4,
 				5
@@ -3091,7 +3079,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5,
 				6
