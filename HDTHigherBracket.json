@@ -1,6 +1,6 @@
 {
 	"Name": "Hell's Descent HB",
-	"Version": 1733100954,
+	"Version": 1733101305,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -344,6 +344,7 @@
 				"151",
 				"163",
 				"178",
+				"183",
 				"204",
 				"220",
 				"233"
@@ -427,6 +428,7 @@
 				"151",
 				"163",
 				"178",
+				"183",
 				"204",
 				"220",
 				"225"
@@ -1861,6 +1863,7 @@
 				"150",
 				"151",
 				"178",
+				"183",
 				"204",
 				"220",
 				"225"
@@ -3034,7 +3037,8 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"163",
-				"178"
+				"178",
+				"183"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
