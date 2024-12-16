@@ -1,6 +1,6 @@
 {
 	"Name": "Hell's Descent HB",
-	"Version": 1734326306,
+	"Version": 1734381275,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -191,6 +191,7 @@
 				"102",
 				"107",
 				"111",
+				"112",
 				"121",
 				"127"
 			],
@@ -259,7 +260,9 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"150"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
@@ -848,7 +851,12 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -981,6 +989,7 @@
 				"21",
 				"34",
 				"36",
+				"38",
 				"39",
 				"44",
 				"53",
@@ -1066,6 +1075,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"8",
+				"10",
 				"21",
 				"34",
 				"36",
@@ -1073,6 +1083,8 @@
 				"39",
 				"44",
 				"53",
+				"57",
+				"61",
 				"65",
 				"76",
 				"96",
@@ -1224,12 +1236,22 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
+			"KillerIndvPerkBans": [
+				"150",
+				"151",
+				"163",
+				"204",
+				"220"
+			],
+			"KillerComboPerkBans": [
+				[
+					"138",
+					"177"
+				]
+			],
 			"SurvivorIndvPerkBans": [
 				"10",
 				"246",
-				"36",
 				"38",
 				"54",
 				"58",
@@ -1380,8 +1402,8 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				4,
-				5
+				5,
+				6
 			],
 			"KillerOfferings": [
 				5
@@ -1596,6 +1618,7 @@
 				"21",
 				"34",
 				"36",
+				"38",
 				"39",
 				"57",
 				"61",
@@ -2092,12 +2115,13 @@
 				"36",
 				"38",
 				"39",
-				"61",
+				"44",
 				"76",
 				"96",
+				"92",
 				"102",
-				"109",
-				"121"
+				"121",
+				"127"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2169,14 +2193,13 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"1",
 				"8",
+				"11",
 				"21",
 				"34",
 				"36",
 				"38",
 				"39",
-				"44",
 				"53",
 				"57",
 				"61",
@@ -2186,6 +2209,8 @@
 				"92",
 				"102",
 				"107",
+				"109",
+				"111",
 				"112",
 				"121",
 				"127"
@@ -2340,6 +2365,7 @@
 				"132",
 				"150",
 				"151",
+				"183",
 				"220"
 			],
 			"KillerComboPerkBans": [],
@@ -2882,6 +2908,7 @@
 				"61",
 				"76",
 				"102",
+				"121",
 				"127"
 			],
 			"SurvivorComboPerkBans": [],
@@ -3122,7 +3149,6 @@
 				"36",
 				"38",
 				"57",
-				"61",
 				"76",
 				"96",
 				"102",
