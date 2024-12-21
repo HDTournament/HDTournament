@@ -1,6 +1,6 @@
 {
 	"Name": "Hell's Descent HB",
-	"Version": 1734381275,
+	"Version": 1734749172,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -37,6 +37,7 @@
 				"54",
 				"55",
 				"56",
+				"274",
 				"252",
 				"66",
 				"68",
@@ -58,6 +59,7 @@
 				"99",
 				"100",
 				"102",
+				"275",
 				"108",
 				"110",
 				"263",
@@ -67,7 +69,8 @@
 				"116",
 				"120",
 				"126",
-				"254"
+				"254",
+				"130"
 			],
 			"KillerIndvPerkBans": [
 				"133",
@@ -146,6 +149,14 @@
 				[
 					"151",
 					"220"
+				],
+				[
+					"178",
+					"183"
+				],
+				[
+					"183",
+					"184"
 				]
 			]
 		}
@@ -174,6 +185,7 @@
 				"11",
 				"21",
 				"246",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -183,7 +195,6 @@
 				"57",
 				"61",
 				"65",
-				"72",
 				"76",
 				"85",
 				"96",
@@ -266,13 +277,12 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
-				"52",
 				"8",
 				"10",
 				"11",
 				"21",
 				"23",
-				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -329,6 +339,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
+				1,
 				2,
 				5,
 				6
@@ -364,7 +375,6 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"21",
-				"60",
 				"39",
 				"57",
 				"61",
@@ -514,6 +524,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
+				1,
 				2,
 				5
 			],
@@ -542,13 +553,11 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
-				"52",
 				"8",
 				"10",
 				"11",
-				"20",
 				"21",
-				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -638,6 +647,7 @@
 				"8",
 				"21",
 				"246",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -726,9 +736,8 @@
 				"1",
 				"8",
 				"11",
-				"20",
 				"21",
-				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -785,6 +794,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
+				1,
 				2,
 				5,
 				6
@@ -816,7 +826,6 @@
 			"SurvivorIndvPerkBans": [
 				"11",
 				"21",
-				"60",
 				"246",
 				"34",
 				"36",
@@ -900,6 +909,7 @@
 			"SurvivorIndvPerkBans": [
 				"8",
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -987,6 +997,7 @@
 				"8",
 				"10",
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -1075,8 +1086,8 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"8",
-				"10",
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -1156,7 +1167,7 @@
 				"11",
 				"20",
 				"21",
-				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -1311,6 +1322,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
+				1,
 				2,
 				5
 			],
@@ -1426,11 +1438,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"3",
-				"52",
-				"20",
 				"21",
-				"60",
 				"246",
 				"34",
 				"36",
@@ -1492,6 +1500,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
+				1,
 				2,
 				5,
 				6
@@ -1525,9 +1534,8 @@
 				"1",
 				"8",
 				"11",
-				"20",
 				"21",
-				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -1587,6 +1595,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
+				1,
 				2,
 				5,
 				6
@@ -1616,6 +1625,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -1777,8 +1787,8 @@
 			"SurvivorIndvPerkBans": [
 				"11",
 				"21",
-				"60",
 				"246",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -1832,6 +1842,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
+				1,
 				2,
 				5,
 				6
@@ -1860,7 +1871,7 @@
 				"11",
 				"20",
 				"21",
-				"60",
+				"273",
 				"34",
 				"38",
 				"39",
@@ -2026,9 +2037,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"11",
-				"20",
 				"21",
-				"60",
 				"34",
 				"36",
 				"38",
@@ -2045,7 +2054,12 @@
 				"127",
 				"128"
 			],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[
+					"48",
+					"118"
+				]
+			],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
@@ -2108,9 +2122,8 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"20",
 				"21",
-				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2196,6 +2209,7 @@
 				"8",
 				"11",
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2285,6 +2299,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2372,7 +2387,7 @@
 			"SurvivorIndvPerkBans": [
 				"11",
 				"21",
-				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2447,14 +2462,17 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"174",
+				"178",
+				"184"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"8",
 				"11",
-				"20",
 				"21",
-				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2546,9 +2564,8 @@
 			"SurvivorIndvPerkBans": [
 				"8",
 				"11",
-				"20",
 				"21",
-				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2638,9 +2655,8 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"11",
-				"20",
 				"21",
-				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2692,6 +2708,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
+				1,
 				2,
 				5,
 				6
@@ -2723,9 +2740,8 @@
 			"SurvivorIndvPerkBans": [
 				"8",
 				"11",
-				"20",
 				"21",
-				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2974,9 +2990,8 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"11",
-				"20",
 				"21",
-				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -3032,6 +3047,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
+				1,
 				2,
 				5,
 				6
@@ -3061,6 +3077,7 @@
 			"SurvivorIndvPerkBans": [
 				"4",
 				"21",
+				"273",
 				"34",
 				"38",
 				"39",
@@ -3144,7 +3161,6 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"21",
-				"60",
 				"34",
 				"36",
 				"38",
@@ -3224,9 +3240,8 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"20",
 				"21",
-				"60",
+				"273",
 				"34",
 				"36",
 				"38",
