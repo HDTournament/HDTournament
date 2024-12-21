@@ -1,6 +1,6 @@
 {
 	"Name": "Hell's Descent LB",
-	"Version": 1734391320,
+	"Version": 1734759802,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -33,6 +33,7 @@
 				"262",
 				"55",
 				"56",
+				"274",
 				"252",
 				"66",
 				"68",
@@ -51,6 +52,7 @@
 				"98",
 				"99",
 				"100",
+				"275",
 				"108",
 				"110",
 				"263",
@@ -64,6 +66,7 @@
 			],
 			"KillerIndvPerkBans": [
 				"133",
+				"270",
 				"134",
 				"136",
 				"245",
@@ -78,6 +81,7 @@
 				"170",
 				"171",
 				"175",
+				"180",
 				"183",
 				"264",
 				"186",
@@ -87,6 +91,7 @@
 				"196",
 				"198",
 				"201",
+				"271",
 				"205",
 				"209",
 				"216",
@@ -162,6 +167,7 @@
 				"8",
 				"10",
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -255,6 +261,7 @@
 				"21",
 				"23",
 				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -340,6 +347,7 @@
 				"163",
 				"178",
 				"204",
+				"272",
 				"220",
 				"233"
 			],
@@ -423,6 +431,7 @@
 				"178",
 				"184",
 				"204",
+				"272",
 				"220",
 				"225"
 			],
@@ -526,6 +535,7 @@
 				"20",
 				"21",
 				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -615,6 +625,7 @@
 			"SurvivorIndvPerkBans": [
 				"8",
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -704,6 +715,7 @@
 				"20",
 				"21",
 				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -780,7 +792,13 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"150",
+				"151",
+				"191",
+				"199",
+				"272"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"11",
@@ -863,6 +881,7 @@
 			"SurvivorIndvPerkBans": [
 				"8",
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -950,6 +969,7 @@
 				"8",
 				"10",
 				"21",
+				"273",
 				"34",
 				"36",
 				"39",
@@ -1038,6 +1058,7 @@
 			"SurvivorIndvPerkBans": [
 				"8",
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -1117,6 +1138,7 @@
 				"20",
 				"21",
 				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -1197,9 +1219,12 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"270",
 				"150",
 				"151",
 				"163",
+				"178",
+				"271",
 				"204",
 				"220"
 			],
@@ -1240,6 +1265,8 @@
 			],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
+				0,
+				5,
 				7,
 				8
 			],
@@ -1248,7 +1275,12 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": [
@@ -1295,6 +1327,7 @@
 			"SurvivorIndvPerkBans": [
 				"8",
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -1379,7 +1412,8 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"163"
+				"163",
+				"272"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -1483,6 +1517,7 @@
 				"20",
 				"21",
 				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -1570,6 +1605,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"21",
+				"273",
 				"34",
 				"36",
 				"39",
@@ -1650,6 +1686,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -1730,6 +1767,7 @@
 				"11",
 				"21",
 				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -1812,6 +1850,7 @@
 				"20",
 				"21",
 				"60",
+				"273",
 				"34",
 				"38",
 				"39",
@@ -1889,6 +1928,7 @@
 				"151",
 				"178",
 				"204",
+				"272",
 				"220"
 			],
 			"KillerComboPerkBans": [],
@@ -2057,13 +2097,15 @@
 			"KillerIndvPerkBans": [
 				"150",
 				"151",
-				"163"
+				"163",
+				"272"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"20",
 				"21",
 				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2138,12 +2180,15 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"150"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
 				"8",
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2232,6 +2277,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2320,6 +2366,7 @@
 				"11",
 				"21",
 				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2481,13 +2528,15 @@
 			],
 			"AntiFacecampPermitted": true,
 			"KillerIndvPerkBans": [
-				"150"
+				"150",
+				"272"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"20",
 				"21",
 				"60",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2578,6 +2627,7 @@
 				"11",
 				"20",
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2661,6 +2711,7 @@
 				"11",
 				"20",
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2737,7 +2788,8 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"150",
-				"178"
+				"178",
+				"272"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -2824,7 +2876,8 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"150",
-				"163"
+				"163",
+				"272"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -2913,6 +2966,7 @@
 				"11",
 				"20",
 				"21",
+				"273",
 				"34",
 				"36",
 				"38",
@@ -2994,6 +3048,7 @@
 			"SurvivorIndvPerkBans": [
 				"4",
 				"21",
+				"273",
 				"34",
 				"38",
 				"39",
@@ -3071,7 +3126,8 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"163",
-				"178"
+				"178",
+				"272"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -3158,6 +3214,7 @@
 				"20",
 				"21",
 				"60",
+				"273",
 				"34",
 				"36",
 				"38",
