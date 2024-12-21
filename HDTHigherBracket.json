@@ -1,6 +1,6 @@
 {
 	"Name": "Hell's Descent HB",
-	"Version": 1734760355,
+	"Version": 1734800406,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -89,6 +89,7 @@
 				"170",
 				"171",
 				"175",
+				"180",
 				"264",
 				"186",
 				"265",
