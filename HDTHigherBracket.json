@@ -1,6 +1,6 @@
 {
 	"Name": "Hell's Descent HB",
-	"Version": 1734749172,
+	"Version": 1734757570,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -369,6 +369,7 @@
 				"178",
 				"183",
 				"204",
+				"272",
 				"220",
 				"233"
 			],
@@ -453,6 +454,7 @@
 				"178",
 				"183",
 				"204",
+				"272",
 				"220",
 				"225"
 			],
@@ -820,7 +822,8 @@
 			"KillerIndvPerkBans": [
 				"151",
 				"191",
-				"199"
+				"199",
+				"272"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -1252,6 +1255,7 @@
 				"151",
 				"163",
 				"204",
+				"272",
 				"220"
 			],
 			"KillerComboPerkBans": [
@@ -1435,7 +1439,10 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"163",
+				"272"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"21",
@@ -1950,6 +1957,7 @@
 				"178",
 				"183",
 				"204",
+				"272",
 				"220",
 				"225"
 			],
@@ -2119,7 +2127,12 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"150",
+				"151",
+				"163",
+				"272"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"21",
@@ -2381,6 +2394,7 @@
 				"150",
 				"151",
 				"183",
+				"272",
 				"220"
 			],
 			"KillerComboPerkBans": [],
@@ -2908,7 +2922,8 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"150",
-				"163"
+				"163",
+				"272"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -3156,7 +3171,8 @@
 			"KillerIndvPerkBans": [
 				"163",
 				"178",
-				"183"
+				"183",
+				"272"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
