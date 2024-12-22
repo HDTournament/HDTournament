@@ -1,6 +1,6 @@
 {
 	"Name": "Hell's Descent LB",
-	"Version": 1734759802,
+	"Version": 1734909145,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -251,7 +251,9 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"150"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
@@ -354,8 +356,6 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"21",
-				"60",
-				"39",
 				"57",
 				"61",
 				"76",
@@ -524,17 +524,17 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"150",
+				"163"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
-				"52",
 				"8",
 				"10",
 				"11",
-				"20",
 				"21",
-				"60",
 				"273",
 				"34",
 				"36",
@@ -712,9 +712,7 @@
 			"SurvivorIndvPerkBans": [
 				"1",
 				"11",
-				"20",
 				"21",
-				"60",
 				"273",
 				"34",
 				"36",
@@ -803,7 +801,6 @@
 			"SurvivorIndvPerkBans": [
 				"11",
 				"21",
-				"60",
 				"34",
 				"36",
 				"38",
@@ -1065,6 +1062,7 @@
 				"39",
 				"44",
 				"53",
+				"57",
 				"61",
 				"65",
 				"76",
@@ -1119,7 +1117,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"19"
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -1135,9 +1133,7 @@
 			"SurvivorIndvPerkBans": [
 				"8",
 				"11",
-				"20",
 				"21",
-				"60",
 				"273",
 				"34",
 				"36",
@@ -1219,13 +1215,12 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"270",
 				"150",
 				"151",
 				"163",
 				"178",
-				"271",
 				"204",
+				"272",
 				"220"
 			],
 			"KillerComboPerkBans": [
@@ -1241,7 +1236,6 @@
 			"SurvivorIndvPerkBans": [
 				"10",
 				"246",
-				"36",
 				"38",
 				"54",
 				"58",
@@ -1322,7 +1316,9 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"150"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"8",
@@ -1419,9 +1415,7 @@
 			"SurvivorIndvPerkBans": [
 				"3",
 				"52",
-				"20",
 				"21",
-				"60",
 				"34",
 				"36",
 				"38",
@@ -1514,9 +1508,7 @@
 				"1",
 				"8",
 				"11",
-				"20",
 				"21",
-				"60",
 				"273",
 				"34",
 				"36",
@@ -1766,7 +1758,6 @@
 			"SurvivorIndvPerkBans": [
 				"11",
 				"21",
-				"60",
 				"273",
 				"34",
 				"36",
@@ -1847,9 +1838,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"11",
-				"20",
 				"21",
-				"60",
 				"273",
 				"34",
 				"38",
@@ -2015,9 +2004,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"11",
-				"20",
 				"21",
-				"60",
 				"34",
 				"36",
 				"38",
@@ -2102,9 +2089,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"20",
 				"21",
-				"60",
 				"273",
 				"34",
 				"36",
@@ -2365,7 +2350,6 @@
 			"SurvivorIndvPerkBans": [
 				"11",
 				"21",
-				"60",
 				"273",
 				"34",
 				"36",
@@ -2396,7 +2380,12 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2435,14 +2424,16 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"174",
+				"178",
+				"184"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"8",
 				"11",
-				"20",
 				"21",
-				"60",
 				"34",
 				"36",
 				"38",
@@ -2526,16 +2517,14 @@
 			"SurvivorBalanceTiers": [
 				0
 			],
-			"AntiFacecampPermitted": true,
+			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"150",
 				"272"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"20",
 				"21",
-				"60",
 				"273",
 				"34",
 				"36",
@@ -2625,7 +2614,6 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"11",
-				"20",
 				"21",
 				"273",
 				"34",
@@ -2709,7 +2697,6 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"11",
-				"20",
 				"21",
 				"273",
 				"34",
@@ -2777,7 +2764,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"46"
+				"9"
 			],
 			"BalanceTiers": [
 				0
@@ -2865,7 +2852,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				0
+				"4"
 			],
 			"BalanceTiers": [
 				0
@@ -2881,8 +2868,6 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"11",
-				"20",
 				"21",
 				"34",
 				"36",
@@ -3132,7 +3117,6 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"21",
-				"60",
 				"34",
 				"36",
 				"38",
@@ -3211,9 +3195,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"20",
 				"21",
-				"60",
 				"273",
 				"34",
 				"36",
