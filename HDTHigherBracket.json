@@ -1,6 +1,6 @@
 {
 	"Name": "Hell's Descent HB",
-	"Version": 1734911136,
+	"Version": 1736695995,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2147,12 +2147,15 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"11",
 				"21",
 				"273",
 				"34",
 				"36",
 				"38",
 				"39",
+				"57",
+				"61",
 				"76",
 				"96",
 				"92",
