@@ -1,6 +1,6 @@
 {
 	"Name": "Hell's Descent LB",
-	"Version": 1735978331,
+	"Version": 1736694964,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -17,6 +17,7 @@
 				"18",
 				"247",
 				"19",
+				"20",
 				"22",
 				"24",
 				"25",
@@ -1137,7 +1138,6 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"8",
 				"11",
 				"21",
 				"273",
@@ -1204,7 +1204,9 @@
 				5,
 				6
 			],
-			"KillerOfferings": []
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Spirit",
