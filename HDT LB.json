@@ -1,6 +1,6 @@
 {
 	"Name": "Hell's Descent LB",
-	"Version": 1736696092,
+	"Version": 1737954046,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -470,9 +470,8 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				7,
-				8,
-				14
+				14,
+				8
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1276,8 +1275,7 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				7,
-				8
+				7
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1727,7 +1725,12 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
