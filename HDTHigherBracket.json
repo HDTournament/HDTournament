@@ -1,6 +1,6 @@
 {
 	"Name": "Hell's Descent HB",
-	"Version": 1736695995,
+	"Version": 1737955939,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1303,9 +1303,8 @@
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
 				0,
-				7,
-				8,
-				5
+				5,
+				7
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1759,7 +1758,12 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2147,13 +2151,13 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"11",
 				"21",
 				"273",
 				"34",
 				"36",
 				"38",
 				"39",
+				"54",
 				"57",
 				"61",
 				"76",
@@ -2955,6 +2959,7 @@
 				"57",
 				"61",
 				"76",
+				"96",
 				"102",
 				"121",
 				"127"
@@ -2977,7 +2982,12 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
