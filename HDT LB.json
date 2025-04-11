@@ -1,6 +1,6 @@
 {
 	"Name": "Hell's Descent LB",
-	"Version": 1743822051,
+	"Version": 1744356023,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -958,7 +958,13 @@
 				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1,
+				2,
+				3,
+				4,
+				3,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
@@ -1321,26 +1327,7 @@
 				"163"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"11",
-				"21",
-				"273",
-				"34",
-				"36",
-				"38",
-				"39",
-				"57",
-				"61",
-				"65",
-				"76",
-				"96",
-				"92",
-				"102",
-				"109",
-				"112",
-				"121",
-				"127"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2820,26 +2807,19 @@
 				5
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				1,
+				2,
+				3,
+				4,
+				3,
+				4,
+				5
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"11",
-				"21",
-				"273",
-				"34",
-				"36",
-				"38",
-				"39",
-				"61",
-				"76",
-				"96",
-				"102",
-				"109",
-				"121"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3084,20 +3064,7 @@
 				"272"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"21",
-				"34",
-				"36",
-				"38",
-				"39",
-				"54",
-				"57",
-				"61",
-				"76",
-				"102",
-				"121",
-				"127"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
