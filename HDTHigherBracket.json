@@ -1,13 +1,12 @@
 {
 	"Name": "Hell's Descent HB",
-	"Version": 1743997823,
+	"Version": 1744678463,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
 		{
 			"Name": "General",
 			"SurvivorIndvPerkBans": [
-				"3",
 				"6",
 				"52",
 				"7",
@@ -38,6 +37,7 @@
 				"56",
 				"274",
 				"252",
+				"59",
 				"66",
 				"69",
 				"70",
@@ -66,7 +66,6 @@
 				"115",
 				"116",
 				"120",
-				"126",
 				"254",
 				"130"
 			],
@@ -124,14 +123,6 @@
 				[
 					"67",
 					"76"
-				],
-				[
-					"36",
-					"38"
-				],
-				[
-					"1",
-					"54"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -154,6 +145,10 @@
 				[
 					"178",
 					"183"
+				],
+				[
+					"272",
+					"219"
 				]
 			]
 		},
@@ -164,9 +159,12 @@
 				"132",
 				"150",
 				"151",
+				"163",
+				"170",
 				"178",
 				"183",
 				"204",
+				"213",
 				"218",
 				"272",
 				"219",
@@ -187,6 +185,7 @@
 				"21",
 				"34",
 				"36",
+				"38",
 				"39",
 				"57",
 				"61",
@@ -223,13 +222,17 @@
 				"34",
 				"36",
 				"39",
+				"44",
 				"261",
 				"57",
+				"61",
 				"76",
 				"88",
 				"89",
+				"96",
 				"92",
 				"109",
+				"121",
 				"126",
 				"127",
 				"128"
@@ -324,7 +327,7 @@
 		{
 			"Name": "The Trapper",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"0"
 			],
@@ -589,18 +592,7 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"132",
-				"150",
-				"151",
-				"163",
-				"178",
-				"183",
-				"204",
-				"272",
-				"220",
-				"225"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [
 				[
 					"138",
@@ -701,32 +693,7 @@
 				"163"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"1",
-				"8",
-				"10",
-				"11",
-				"21",
-				"273",
-				"34",
-				"36",
-				"38",
-				"39",
-				"53",
-				"57",
-				"61",
-				"65",
-				"76",
-				"85",
-				"96",
-				"92",
-				"102",
-				"107",
-				"111",
-				"112",
-				"121",
-				"127"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -799,30 +766,7 @@
 				"200"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"8",
-				"21",
-				"246",
-				"273",
-				"34",
-				"36",
-				"38",
-				"39",
-				"44",
-				"57",
-				"61",
-				"65",
-				"76",
-				"96",
-				"92",
-				"102",
-				"109",
-				"112",
-				"121",
-				"123",
-				"127",
-				"128"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
 				"123"
@@ -1041,7 +985,8 @@
 				1,
 				2,
 				3,
-				4
+				4,
+				5
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
@@ -1049,26 +994,7 @@
 				"170"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"8",
-				"21",
-				"273",
-				"34",
-				"36",
-				"38",
-				"39",
-				"44",
-				"57",
-				"61",
-				"65",
-				"76",
-				"96",
-				"92",
-				"102",
-				"112",
-				"121",
-				"127"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1138,37 +1064,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"1",
-				"8",
-				"10",
-				"21",
-				"273",
-				"34",
-				"36",
-				"38",
-				"39",
-				"44",
-				"53",
-				"57",
-				"61",
-				"65",
-				"76",
-				"85",
-				"96",
-				"92",
-				"102",
-				"107",
-				"111",
-				"112",
-				"121",
-				"127"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [
-				"65",
-				"112"
-			],
+			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -1323,27 +1221,7 @@
 				"163"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"8",
-				"11",
-				"21",
-				"273",
-				"34",
-				"36",
-				"38",
-				"39",
-				"57",
-				"61",
-				"65",
-				"76",
-				"96",
-				"92",
-				"102",
-				"109",
-				"112",
-				"121",
-				"127"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1412,14 +1290,7 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"150",
-				"151",
-				"163",
-				"204",
-				"272",
-				"220"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [
 				[
 					"138",
@@ -1498,7 +1369,7 @@
 		{
 			"Name": "The Legion",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"39"
 			],
@@ -1691,7 +1562,8 @@
 				0
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				5
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
@@ -1770,9 +1642,7 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"150"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"8"
@@ -1844,26 +1714,10 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"150",
 				"163"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"21",
-				"34",
-				"36",
-				"38",
-				"39",
-				"57",
-				"61",
-				"76",
-				"96",
-				"92",
-				"102",
-				"121",
-				"127",
-				"128"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1936,24 +1790,7 @@
 				"170"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"11",
-				"21",
-				"246",
-				"273",
-				"34",
-				"36",
-				"38",
-				"39",
-				"54",
-				"61",
-				"76",
-				"96",
-				"102",
-				"109",
-				"121",
-				"127"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2006,7 +1843,7 @@
 		{
 			"Name": "The Executioner",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"8"
 			],
@@ -2096,20 +1933,11 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"132",
-				"136",
-				"150",
-				"151",
-				"178",
-				"183",
-				"204",
-				"272",
-				"220",
-				"225"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"38"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2189,10 +2017,7 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"150",
-				"163"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"48",
@@ -2273,23 +2098,7 @@
 				"272"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"21",
-				"273",
-				"34",
-				"36",
-				"38",
-				"39",
-				"54",
-				"57",
-				"61",
-				"76",
-				"96",
-				"92",
-				"102",
-				"121",
-				"127"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2437,13 +2246,6 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"21",
-				"273",
-				"34",
-				"36",
-				"38",
-				"39",
-				"44",
 				"101",
 				"124"
 			],
@@ -2515,28 +2317,12 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"132",
-				"150",
-				"151",
 				"178",
 				"183",
 				"220"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"11",
-				"21",
-				"273",
-				"34",
-				"36",
-				"38",
-				"39",
-				"61",
-				"76",
-				"96",
-				"102",
-				"121",
-				"127"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2613,31 +2399,7 @@
 				"184"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"8",
-				"11",
-				"21",
-				"273",
-				"34",
-				"36",
-				"38",
-				"39",
-				"53",
-				"57",
-				"61",
-				"65",
-				"76",
-				"85",
-				"96",
-				"92",
-				"102",
-				"107",
-				"109",
-				"111",
-				"112",
-				"121",
-				"127"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2792,21 +2554,7 @@
 					"210"
 				]
 			],
-			"SurvivorIndvPerkBans": [
-				"11",
-				"21",
-				"273",
-				"34",
-				"36",
-				"38",
-				"39",
-				"61",
-				"76",
-				"96",
-				"102",
-				"109",
-				"121"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2859,7 +2607,7 @@
 		{
 			"Name": "The Knight",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"13"
 			],
@@ -2946,7 +2694,7 @@
 		{
 			"Name": "The Skull Merchant",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"46"
 			],
@@ -3107,7 +2855,7 @@
 		{
 			"Name": "The Xenomorph",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"9"
 			],
@@ -3287,19 +3035,7 @@
 				"163"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"21",
-				"34",
-				"36",
-				"38",
-				"57",
-				"76",
-				"96",
-				"102",
-				"109",
-				"121",
-				"127"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
